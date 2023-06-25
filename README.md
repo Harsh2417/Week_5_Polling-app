@@ -1,5 +1,4 @@
 # Polling App
-
 This is a React application that periodically polls for new posts from the Hacker News API and displays them in a tabular format.
 
 ## Features
