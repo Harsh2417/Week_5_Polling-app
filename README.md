@@ -11,7 +11,7 @@ This is a React application that periodically polls for new posts from the Hacke
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/polling-app.git
+[git clone https://github.com/your-username/polling-app.git](https://github.com/Harsh2417/Week_5_Polling-app.git)
 
 2. Navigate to the project directory:
 cd polling-app
